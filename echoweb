@@ -1,0 +1,4 @@
+#!/bin/sh
+
+bin/echos 2>log/log_s
+bin/echodb-srv 2>log/log_db
