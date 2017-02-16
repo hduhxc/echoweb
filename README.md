@@ -1,5 +1,5 @@
 # EchoWeb
-A very simple Web "runtime" implementation
+A very simple Web environment implementation
 
 ## Introduction
 This project contains three parts:
